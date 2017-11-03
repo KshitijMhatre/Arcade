@@ -226,6 +226,10 @@ body .demo-blog {
 .demo-blog .pong .mdl-card__media {
   background-image: url('images/pong.png');
 }
+.demo-blog .plat .mdl-card__media {
+  background-image: url('images/plat.png');
+}
+
 .demo-blog .demo-blog__posts > .demo-nav {
   margin: 12px 15px;
   display: -webkit-flex;
